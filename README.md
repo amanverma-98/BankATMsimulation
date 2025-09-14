@@ -6,7 +6,7 @@ The system supports both Savings and Current accounts with features like deposit
 
 
 
-🚀 Features
+🚀 Features :
 
 PIN verification (up to 3 wrong attempts allowed)
 
@@ -23,7 +23,7 @@ Multiple accounts can be added and managed
 
 
 
-🔑 OOP Concepts Covered
+🔑 OOP Concepts Covered :
 
 Encapsulation → sensitive data like PIN and balance kept private
 
@@ -36,8 +36,8 @@ Abstraction → users interact with simple methods (deposit, withdraw, check bal
 
 
 
-🛠️ Tech Used
+🛠️ Tech Used :
 
-Python 3.x
+Python 3.12.4
 
 Basic OOP principles
