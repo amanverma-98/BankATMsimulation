@@ -1,4 +1,4 @@
-                                      🏦 ATM Simulation System
+**🏦 ATM Simulation System **                                     
 
 This is a small Python project that simulates the working of an ATM machine using Object-Oriented Programming (OOP) concepts.
 The system supports both Savings and Current accounts with features like deposits, withdrawals, overdraft (for current accounts), and automatic interest calculation (for savings accounts).
